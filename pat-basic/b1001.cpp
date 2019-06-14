@@ -2,8 +2,7 @@
 //  b1001.cpp
 //  pat
 //
-//  Created by 傅凯 on 2019/5/15.
-//  Copyright © 2019 fukai. All rights reserved.
+//  Created by fukai on 2019/6.
 //
 
 /*
